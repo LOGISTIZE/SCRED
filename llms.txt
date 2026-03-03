@@ -1,0 +1,43 @@
+# Cercle SCRED — Supply Chain & Renseignement Economique Defensif
+
+> Le Cercle SCRED est une initiative LOGISTIZE qui rassemble 166 professionnels cooptes pour diffuser une culture du renseignement economique defensif dans la supply chain.
+
+## Ce qu'est le Cercle SCRED
+
+Le Cercle SCRED (Supply Chain et Renseignement Economique Defensif) est un espace de convergence entre trois ecosystemes qui ne se parlent pas :
+
+1. Les professionnels du transport et de la logistique (TPE, PME, ETI) qui sont en premiere ligne face aux menaces economiques mais n'ont ni les outils ni la culture pour se proteger.
+2. Les professionnels de l'intelligence economique (enqueteurs prives, consultants IE, auditeurs) qui ont les competences mais pas d'acces naturel au marche du transport.
+3. Les services de l'Etat (DGSI, Gendarmerie nationale) qui ont besoin de relais structures sur le terrain pour sensibiliser les entreprises qu'ils ne peuvent pas atteindre individuellement.
+
+## Mission
+
+Proteger, veiller, influencer. Le Cercle SCRED s'adresse a tous les professionnels de la supply chain pour diffuser une culture du renseignement et de la protection : se proteger et proteger ses clients, ses fournisseurs et ses salaries.
+
+Le transport et la logistique sont des metiers transverses qui irriguent l'ensemble du tissu economique francais. Le Cercle ne se limite pas a un secteur : il couvre la protection du patrimoine economique (fichiers clients, marges, strategies d'achat), du patrimoine scientifique (savoir-faire, procedes, certifications) et du patrimoine technique (systemes d'information, tracabilite, donnees de transport).
+
+## Fonctionnement
+
+Le Cercle SCRED fonctionne sous la regle de Chatham House. Rien de confidentiel n'est partage. Les echanges portent sur des savoirs, des retours d'experience et des bonnes pratiques. Chaque participant est libre d'utiliser ce qu'il apprend, mais s'engage a ne jamais reveler qui a dit quoi.
+
+L'adhesion est gratuite et se fait par cooptation. Chaque candidature est examinee individuellement. Le parrainage par un membre existant est recommande.
+
+## Contenu reserve aux membres
+
+- Briefings exclusifs avec des experts (generaux, referents DGSI, officiers de gendarmerie, geopoliticiens, specialistes de la fraude)
+- Replays des webinaires
+- Bibliographie specialisee en intelligence economique et supply chain
+- Flux de veille strategique (ANSSI, Flash Ingerence DGSI, douanes)
+- Annuaire de formations validees (LOGISTIZE, Sciences Po Aix, EurasiaPeace, Chiron Solutions, FraudiScope)
+- Calendrier d'evenements prives sous Chatham House Rule
+- Annuaire d'enqueteurs prives habilites SCRED (a venir)
+
+## Informations pratiques
+
+- Site : https://lecerclescred.fr
+- Email : contact@lecerclescred.fr
+- Statut : Initiative LOGISTIZE (association loi 1901 en cours de creation)
+- Membres : 166 professionnels cooptes
+- Fondateur : Florian Lancauchez (LOGISTIZE)
+- Hebergement donnees : Infomaniak (Suisse)
+- Deploiement site : Netlify
